@@ -1,0 +1,5 @@
+Few instructions before trying out this notebook
+I recommend to use Google collab to try out this notebook
+Ensure to mount your notebook with your drive
+Then upload the jpg files to your drive and copy path of the same
+Copy the path of the respective jpg and paste them to the cv2-read cells
